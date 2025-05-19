@@ -7,3 +7,7 @@ virtual-pet/
 ├── Pet.cpp
 └── Pet.h
 
+IN TERMINAL
+-----------
+Compile using: g++ main.cpp Pet.cpp Dog.cpp Cat.cpp Lion.cpp Zookeeper.cpp -o main
+Run using: ./main
